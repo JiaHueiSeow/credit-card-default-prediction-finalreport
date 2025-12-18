@@ -14,12 +14,12 @@ Model performance is evaluated using confusion matrices and ROC analysis to acco
 
 ## Repository Structure
 - **Report/**  
--[PREDICTION OF CREDIT CARD DEFAULT.docx](https://github.com/user-attachments/files/24245691/PREDICTION.OF.CREDIT.CARD.DEFAULT.docx)
+[report-PREDICTION OF CREDIT CARD DEFAULT.docx](https://github.com/user-attachments/files/24247320/report-PREDICTION.OF.CREDIT.CARD.DEFAULT.docx)
 
 
 - **Slides/**
--[Default of Credit Card Clients.pdf](https://github.com/user-attachments/files/24245205/Default.of.Credit.Card.Clients.pdf)
--[Default of Credit Card Clients.pptx](https://github.com/user-attachments/files/24245211/Default.of.Credit.Card.Clients.pptx)
+[slides-PREDICTION OF CREDIT CARD DEFAULT.pptx](https://github.com/user-attachments/files/24247341/slides-PREDICTION.OF.CREDIT.CARD.DEFAULT.pptx)
+[slides-PREDICTION OF CREDIT CARD DEFAULT.pdf](https://github.com/user-attachments/files/24247342/slides-PREDICTION.OF.CREDIT.CARD.DEFAULT.pdf)
 
 
 - **Code/**  
